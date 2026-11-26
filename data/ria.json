@@ -1,0 +1,41 @@
+{
+  "generado": "2026-11-26",
+  "concepto": "RIA: identificar paso a paso quién invierte la plata del trabajador y dónde, idealmente en el momento en que opera en el mercado.",
+  "cadena": [
+    {
+      "eslabon": "Front office (decisión de inversión)",
+      "quien": "Gerencia de inversiones y operadores de la AFP, bajo políticas y programas que el directorio debe aprobar (Oficio 821, Res. Ex. 549).",
+      "dato_publico": "Cargos de gerente general y directorio en la ficha SP (mensual). El nombre del gerente de inversiones no está en esa ficha. Las actas del comité de inversiones (CISCI) no son públicas.",
+      "rezago": "La ficha se actualiza con corte (aquí, 30-09-2026). La decisión del día es NO DATO.",
+      "tiempo_real": "NO DATO"
+    },
+    {
+      "eslabon": "Middle office (riesgo, límites, valorización, confirmación, registro)",
+      "quien": "Unidades internas de riesgo y control de la AFP. El Oficio 821 y la NCG 362 exigen métricas, LED/RCL y monitoreo. En la descripción operativa, «todo depende» de que este eslabón registre y controle lo que el front ejecuta.",
+      "dato_publico": "No hay un reporte público diario de límites, garantías ni confirmaciones por operación. La SP recibe reportes (RCL/LED semanales, según la NCG 362), pero no los publica operación a operación.",
+      "rezago": "El afiliado no ve este eslabón. NO DATO en tiempo real.",
+      "tiempo_real": "NO DATO"
+    },
+    {
+      "eslabon": "Back office, custodia y liquidación",
+      "quien": "Operaciones de la AFP, custodio y contrapartes bancarias. Los swaps de tasas de este caso, al 30-06-2026, no liquidaban en cámaras (0 US$ MM en el cuadro 29).",
+      "dato_publico": "El cuadro 29 de la cartera desagregada muestra si hay monto en cámaras. El detalle de liquidación, márgenes y custodia por contrato no es público.",
+      "rezago": "Cartera mensual, publicada con rezago (p. ej. corte 30-06 publicada el 09-07-2026).",
+      "tiempo_real": "NO DATO para el contrato específico del fondo."
+    },
+    {
+      "eslabon": "Reporte a la Superintendencia de Pensiones",
+      "quien": "Cada AFP remite la cartera desagregada y reportes de derivados. La SP publica un ZIP mensual (XML).",
+      "dato_publico": "Cartera de Inversión Desagregada (cuadros de acciones, bonos, forwards, swaps, etc.), con valorización por fondo y contraparte.",
+      "rezago": "Un mes de corte más los días hasta la publicación (en mayo, corte 29-05 publicado el 12-06; en junio, corte 30-06 publicado el 09-07). Julio–octubre 2026: el ZIP no se pudo descargar el 25-11.",
+      "tiempo_real": "No. Este es el dato más fino que es público, y llega tarde."
+    },
+    {
+      "eslabon": "Lo que sí puede saberse más cerca del momento",
+      "quien": "Emisores supervisados por la CMF (hechos esenciales) y operaciones bursátiles en la Bolsa de Santiago (renta variable y algunos instrumentos listados).",
+      "dato_publico": "Hechos esenciales y precios de bolsa de instrumentos listados en Chile.",
+      "rezago": "Minutos u horas, según el hecho o la transacción bursátil.",
+      "tiempo_real": "Parcial, y no cubre los swaps OTC de tasas con bancos extranjeros, que son el núcleo de esta operación cuestionada. Ese mercado no se ve en la Bolsa de Santiago."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "generado": "2026-11-26",
+  "aviso": "No hay multa ni sanción firme por esta operación a la fecha de esta revisión. El marco legal de posibles sanciones no se presenta como una sanción aplicada.",
+  "items": [
+    {
+      "id": "sanc-proc-sp",
+      "tipo": "procedimiento administrativo",
+      "numero": "NO DATO del número de resolución de cargos (aún no hay formulación de cargos)",
+      "fecha": "2026-10-20",
+      "contra": "Las siete AFP",
+      "monto": null,
+      "monto_label": "Sin multa aplicada",
+      "estado": "Abierto. Información previa. Sin formulación de cargos (informado por el Fiscal de la SP ante la Cámara y por la Solicitud de Resolución N.º 278). Plazo máximo informado por la SP: 6 meses + 3 de prórroga.",
+      "marco_sanciones": "La SP informó que el marco legal contempla censura, multa de hasta 15.000 UF (o, según la Res. 278, también hasta el 30 % de operaciones irregulares) y, en infracciones graves, revocación. Eso es el máximo legal, no una sanción dictada.",
+      "ref": {
+        "id": "sanc-sp-20261020"
+      },
+      "marco_ref": {
+        "id": "sanc-marco-multa"
+      }
+    },
+    {
+      "id": "sanc-querella",
+      "tipo": "querella penal",
+      "numero": "Rol de la causa: [por documentar] (no se abrió la Oficina Judicial Virtual en esta pasada)",
+      "fecha": "2026-10-22",
+      "contra": "AFP Capital, su gerente general y su directorio (según DF). No se listan aquí como condenados: la querella fue declarada inadmisible.",
+      "monto": null,
+      "monto_label": "No hay indemnización ni pena",
+      "estado": "Inadmisible el 22-10-2026 por el 4.º Juzgado de Garantía de Santiago; apelada ante la Corte de Apelaciones de Santiago; en tramitación al 11-11-2026. Sin sentencia.",
+      "ref": {
+        "id": "jud-querella-capital"
+      }
+    },
+    {
+      "id": "sanc-prot-capital",
+      "tipo": "recurso de protección",
+      "numero": "[por documentar]",
+      "fecha": "2026-10",
+      "contra": "AFP Capital",
+      "monto": null,
+      "monto_label": "—",
+      "estado": "Declarado inadmisible por la Corte de Apelaciones de Santiago (DF, 11-11-2026).",
+      "ref": {
+        "id": "jud-prot-capital"
+      }
+    },
+    {
+      "id": "sanc-prot-uno",
+      "tipo": "recurso de protección",
+      "numero": "[por documentar]",
+      "fecha": "2026-10",
+      "contra": "AFP Uno",
+      "monto": null,
+      "monto_label": "—",
+      "estado": "La Corte de Apelaciones de Puerto Montt lo declaró admisible solo respecto de las cartolas, no de la caída del fondo (DF, 11-11-2026).",
+      "ref": {
+        "id": "jud-prot-uno"
+      }
+    },
+    {
+      "id": "sanc-prot-otras",
+      "tipo": "recursos de protección",
+      "numero": "NO DATO",
+      "fecha": "2026-11-08",
+      "contra": "Habitat y Modelo (mención de prensa, junto a Capital y Uno)",
+      "monto": null,
+      "monto_label": "—",
+      "estado": "BioBio (08-11-2026) habla de al menos cuatro recursos. El estado procesal de Habitat y Modelo, más allá de esa mención, es NO DATO.",
+      "ref": {
+        "id": "jud-prot-otras"
+      }
+    },
+    {
+      "id": "sanc-cmf",
+      "tipo": "sanción CMF",
+      "numero": "NO DATO",
+      "fecha": "",
+      "contra": "—",
+      "monto": null,
+      "monto_label": "NO DATO",
+      "estado": "No se encontró un acto publicado de la CMF que sume una multa o sanción por estos swaps. La CMF no es el supervisor de las AFP.",
+      "ref": {
+        "id": "sanc-cmf-swaps"
+      }
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "generado": "2026-11-26",
+  "corte": "2026-06-30",
+  "usdclp": {
+    "ref": {
+      "id": "sp-17075-usdclp"
+    }
+  },
+  "valor_fondos_mm": {
+    "capital": {
+      "a": {
+        "id": "sp-17078-val-capital-a"
+      },
+      "b": {
+        "id": "sp-17078-val-capital-b"
+      },
+      "c": {
+        "id": "sp-17078-val-capital-c"
+      },
+      "d": {
+        "id": "sp-17078-val-capital-d"
+      },
+      "e": {
+        "id": "sp-17078-val-capital-e"
+      },
+      "tot": {
+        "id": "sp-17078-val-capital-tot"
+      }
+    },
+    "cuprum": {
+      "a": {
+        "id": "sp-17078-val-cuprum-a"
+      },
+      "b": {
+        "id": "sp-17078-val-cuprum-b"
+      },
+      "c": {
+        "id": "sp-17078-val-cuprum-c"
+      },
+      "d": {
+        "id": "sp-17078-val-cuprum-d"
+      },
+      "e": {
+        "id": "sp-17078-val-cuprum-e"
+      },
+      "tot": {
+        "id": "sp-17078-val-cuprum-tot"
+      }
+    },
+    "habitat": {
+      "a": {
+        "id": "sp-17078-val-habitat-a"
+      },
+      "b": {
+        "id": "sp-17078-val-habitat-b"
+      },
+      "c": {
+        "id": "sp-17078-val-habitat-c"
+      },
+      "d": {
+        "id": "sp-17078-val-habitat-d"
+      },
+      "e": {
+        "id": "sp-17078-val-habitat-e"
+      },
+      "tot": {
+        "id": "sp-17078-val-habitat-tot"
+      }
+    },
+    "modelo": {
+      "a": {
+        "id": "sp-17078-val-modelo-a"
+      },
+      "b": {
+        "id": "sp-17078-val-modelo-b"
+      },
+      "c": {
+        "id": "sp-17078-val-modelo-c"
+      },
+      "d": {
+        "id": "sp-17078-val-modelo-d"
+      },
+      "e": {
+        "id": "sp-17078-val-modelo-e"
+      },
+      "tot": {
+        "id": "sp-17078-val-modelo-tot"
+      }
+    },
+    "planvital": {
+      "a": {
+        "id": "sp-17078-val-planvital-a"
+      },
+      "b": {
+        "id": "sp-17078-val-planvital-b"
+      },
+      "c": {
+        "id": "sp-17078-val-planvital-c"
+      },
+      "d": {
+        "id": "sp-17078-val-planvital-d"
+      },
+      "e": {
+        "id": "sp-17078-val-planvital-e"
+      },
+      "tot": {
+        "id": "sp-17078-val-planvital-tot"
+      }
+    },
+    "provida": {
+      "a": {
+        "id": "sp-17078-val-provida-a"
+      },
+      "b": {
+        "id": "sp-17078-val-provida-b"
+      },
+      "c": {
+        "id": "sp-17078-val-provida-c"
+      },
+      "d": {
+        "id": "sp-17078-val-provida-d"
+      },
+      "e": {
+        "id": "sp-17078-val-provida-e"
+      },
+      "tot": {
+        "id": "sp-17078-val-provida-tot"
+      }
+    },
+    "uno": {
+      "a": {
+        "id": "sp-17078-val-uno-a"
+      },
+      "b": {
+        "id": "sp-17078-val-uno-b"
+      },
+      "c": {
+        "id": "sp-17078-val-uno-c"
+      },
+      "d": {
+        "id": "sp-17078-val-uno-d"
+      },
+      "e": {
+        "id": "sp-17078-val-uno-e"
+      },
+      "tot": {
+        "id": "sp-17078-val-uno-tot"
+      }
+    },
+    "sistema": {
+      "a": {
+        "id": "sp-17078-val-sistema-a"
+      },
+      "b": {
+        "id": "sp-17078-val-sistema-b"
+      },
+      "c": {
+        "id": "sp-17078-val-sistema-c"
+      },
+      "d": {
+        "id": "sp-17078-val-sistema-d"
+      },
+      "e": {
+        "id": "sp-17078-val-sistema-e"
+      },
+      "tot": {
+        "id": "sp-17078-val-sistema-tot"
+      }
+    }
+  },
+  "comisiones_nov2026": {
+    "capital": {
+      "id": "sp-comision-capital-202611"
+    },
+    "cuprum": {
+      "id": "sp-comision-cuprum-202611"
+    },
+    "habitat": {
+      "id": "sp-comision-habitat-202611"
+    },
+    "modelo": {
+      "id": "sp-comision-modelo-202611"
+    },
+    "planvital": {
+      "id": "sp-comision-planvital-202611"
+    },
+    "provida": {
+      "id": "sp-comision-provida-202611"
+    },
+    "uno": {
+      "id": "sp-comision-uno-202611"
+    }
+  },
+  "rentabilidad_ene_jun_2026": {
+    "a": {
+      "id": "sp-17078-rent-a"
+    },
+    "b": {
+      "id": "sp-17078-rent-b"
+    },
+    "c": {
+      "id": "sp-17078-rent-c"
+    },
+    "d": {
+      "id": "sp-17078-rent-d"
+    },
+    "e": {
+      "id": "sp-17078-rent-e"
+    }
+  },
+  "formula": "estimación = saldo × ( |valorización swaps de tasas, US$ MM| × tipo de cambio ) / valor del fondo (millones de pesos)",
+  "supuestos": [
+    "Se usa la valorización de mercado de los swaps de tasas (extranjeros + nacionales) al 30-06-2026, no la pérdida realizada ni la cifra del sistema al 05-11 (esa no está desagregada por AFP y fondo en un XML público).",
+    "El tipo de cambio es el que publicó la SP para ese corte: $ 922,34 por dólar.",
+    "Se prorratea como si cada peso del fondo soportara la misma fracción. Eso es una estimación [I]: las cuentas no entran ni salen el mismo día, y la valorización no es una pérdida cerrada.",
+    "El saldo lo escribes tú, desde tu cartola. No se guarda ni se envía. Sin saldo no hay estimación de pérdida.",
+    "El sueldo imponible sirve solo para estimar la comisión mensual de tu AFP (tasa oficial de noviembre 2026). No permite reconstruir el saldo.",
+    "La rentabilidad oficial ene–jun 2026 es del tipo de fondo en el sistema, no de tu cuenta, y ya incluye el efecto de estas y otras inversiones."
+  ]
+}

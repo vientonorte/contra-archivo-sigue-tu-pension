@@ -1,0 +1,194 @@
+{
+  "generado": "2026-11-26",
+  "aviso": "Prototipo v1.1. Cada hito tiene fuente, URL y grado.",
+  "hitos": [
+    {
+      "id": "h-1994-ley19031",
+      "fecha": "1994",
+      "hecho": "La Ley 19.031 restringió los derivados de los fondos a fines de cobertura.",
+      "cat": "norma",
+      "ref": {
+        "id": "cro-1994-ley19031"
+      }
+    },
+    {
+      "id": "h-2008-res24",
+      "fecha": "2008-10",
+      "hecho": "La Res. N.º 24 permite forwards y swaps también con fines de inversión.",
+      "cat": "norma",
+      "ref": {
+        "id": "cro-2008-res24"
+      }
+    },
+    {
+      "id": "h-2012-ncg69",
+      "fecha": "2012-06",
+      "hecho": "Res. 46 y NCG 69: el control de riesgo de derivados queda en las políticas de cada AFP.",
+      "cat": "norma",
+      "ref": {
+        "id": "cro-2012-ncg69"
+      }
+    },
+    {
+      "id": "h-2019-ncg242",
+      "fecha": "2019-05",
+      "hecho": "NCG 242 permite compensar derivados sin importar las fechas de vencimiento.",
+      "cat": "norma",
+      "ref": {
+        "id": "cro-2019-ncg242"
+      }
+    },
+    {
+      "id": "h-2024-citas",
+      "fecha": "2024-10",
+      "hecho": "La SP cita a gerentes generales y de inversiones por el aumento de derivados (oct–nov 2024) y advierte que el aumento de swaps «se puede traducir en amplificación de riesgos».",
+      "cat": "alerta",
+      "ref": {
+        "id": "cro-2025-oficio821"
+      }
+    },
+    {
+      "id": "h-2025-oficio821",
+      "fecha": "2025-01-15",
+      "hecho": "Oficio N.º 821: la SP pide riesgo aceptado explícito, programas anuales aprobados por el directorio y métricas de efectividad de los derivados.",
+      "cat": "alerta",
+      "ref": {
+        "id": "oficio-821"
+      }
+    },
+    {
+      "id": "h-2025-ncg340",
+      "fecha": "2025-07-18",
+      "hecho": "NCG 340: la SP unifica deberes fiduciarios de las AFP (cuidado, conflictos de interés, diligencia).",
+      "cat": "norma",
+      "ref": {
+        "id": "cro-2026-ncg340"
+      }
+    },
+    {
+      "id": "h-2025-bcch",
+      "fecha": "2025-11",
+      "hecho": "El Banco Central, en su Informe de Estabilidad Financiera, alerta sobre liquidez.",
+      "cat": "alerta",
+      "ref": {
+        "id": "cro-2025-bcch"
+      }
+    },
+    {
+      "id": "h-2026-rex549",
+      "fecha": "2026-04-09",
+      "hecho": "Res. Ex. 549 y NCG 362: LED (3 % A/B, 2,5 % C, 2 % D/E) y RCL ≥ 100 %. Plazo de 210 días corridos (vence el 05-11-2026); a los 120 días (07-08) los excesos no pueden superar el 40 %.",
+      "cat": "norma",
+      "ref": {
+        "id": "cro-2026-rex549"
+      }
+    },
+    {
+      "id": "h-2026-0529",
+      "fecha": "2026-05-29",
+      "hecho": "Corte de la cartera SP: valorización de swaps extranjeros de tasas del sistema, −3.023,39 US$ MM.",
+      "cat": "cifra",
+      "ref": {
+        "id": "sp-2026-05-sistema-ext"
+      }
+    },
+    {
+      "id": "h-2026-0630",
+      "fecha": "2026-06-30",
+      "hecho": "Corte de la cartera SP: swaps extranjeros de tasas −2.418,10 US$ MM; 0 US$ MM en cámaras de compensación. Valor de los fondos: $ 234.403.521 millones.",
+      "cat": "cifra",
+      "ref": {
+        "id": "sp-17078-valor-sistema"
+      },
+      "refs": [
+        {
+          "id": "sp-2026-06-sistema-ext"
+        },
+        {
+          "id": "sp-17078-valor-sistema"
+        }
+      ]
+    },
+    {
+      "id": "h-2026-rex1359",
+      "fecha": "2026-10-06",
+      "hecho": "Res. Ex. 1359 modifica la Res. Ex. 549 (aceleración del ajuste). El detalle numérico del PDF no se transcribió: el archivo oficial está en imagen, sin capa de texto.",
+      "cat": "norma",
+      "ref": {
+        "id": "cro-2026-rex1359"
+      }
+    },
+    {
+      "id": "h-2026-0930",
+      "fecha": "2026-09-30",
+      "hecho": "Valorización de swaps de tasas del sistema, −10.582,65 US$ MM (SP vía CNN Chile). Los archivos XML de julio–octubre no se pudieron descargar (25-11-2026).",
+      "cat": "cifra",
+      "ref": {
+        "id": "cnn-20260930-sistema"
+      }
+    },
+    {
+      "id": "h-2026-oficio-camara",
+      "fecha": "2026-10-19",
+      "hecho": "Oficio de fiscalización de la Cámara de Diputadas y Diputados a la SP.",
+      "cat": "causa",
+      "ref": {
+        "id": "cro-2026-oficio-dip"
+      }
+    },
+    {
+      "id": "h-2026-sancion",
+      "fecha": "2026-10-20",
+      "hecho": "La SP abre un procedimiento sancionatorio a las 7 AFP (deber de lealtad y diligencia, art. 147 DL 3.500 y NCG 340). Queda en información previa, sin cargos y sin multa.",
+      "cat": "sancion",
+      "ref": {
+        "id": "sanc-sp-20261020"
+      }
+    },
+    {
+      "id": "h-2026-querella",
+      "fecha": "2026-10-22",
+      "hecho": "Querella contra AFP Capital, su gerente general y su directorio: inadmisible en el 4.º Juzgado de Garantía de Santiago; apelada. No hay sentencia.",
+      "cat": "sancion",
+      "ref": {
+        "id": "jud-querella-capital"
+      }
+    },
+    {
+      "id": "h-2026-camara26",
+      "fecha": "2026-10-26",
+      "hecho": "El superintendente Joaquín Cortez Huerta presenta ante la Comisión de Trabajo de la Cámara la cifra de valorización y el marco del procedimiento.",
+      "cat": "causa",
+      "ref": {
+        "id": "cro-2026-camara26"
+      }
+    },
+    {
+      "id": "h-2026-0511",
+      "fecha": "2026-11-05",
+      "hecho": "Vence el plazo de 210 días de la Res. Ex. 549. La SP informa a la Cámara (sesión del 17-11) una pérdida del sistema al 05-11 de 6.993 (realizada) + 3.803 (valoración) = 10.796 US$ MM.",
+      "cat": "cifra",
+      "ref": {
+        "id": "sis-20261105-total"
+      }
+    },
+    {
+      "id": "h-2026-camara17",
+      "fecha": "2026-11-17",
+      "hecho": "Sesión de la Cámara: la SP actualiza la pérdida al 05-11.",
+      "cat": "causa",
+      "ref": {
+        "id": "cro-2026-camara17"
+      }
+    },
+    {
+      "id": "h-2027-csa",
+      "fecha": "2027-04-04",
+      "hecho": "Plazo informado por la SP para que el 100 % de los derivados tenga garantías bilaterales.",
+      "cat": "norma",
+      "ref": {
+        "id": "cro-2027-csa"
+      }
+    }
+  ]
+}

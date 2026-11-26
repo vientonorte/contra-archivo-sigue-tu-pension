@@ -1,8 +1,8 @@
 # Sigue tu pensión
 
-Prototipo v1 del Contra-Archivo: una lectura pública de las carteras de las AFP, a partir de datos de la Superintendencia de Pensiones, con fuente, fecha y grado a la vista.
+Prototipo v1.1 del Contra-Archivo: una lectura pública de las carteras de las AFP, a partir de datos de la Superintendencia de Pensiones, con fuente, fecha y grado a la vista.
 
-**Esta versión no incluye nombres de personas.**
+Esta versión incluye hitos, sanciones, un paso «Tu cuenta» (estimación en el navegador, sin guardar ni enviar) y fichas de instituciones y de personas con cargo público o corporativo verificable. **Solo se publica el nombre, el cargo y la fuente.** No hay RUT ni otros datos personales.
 
 Cada cifra lleva una nota con su fuente, su fecha y su grado:
 
@@ -17,13 +17,13 @@ Cada cifra lleva una nota con su fuente, su fecha y su grado:
 
 ## Datos y licencia
 
-Las cifras de carteras provienen de la Superintendencia de Pensiones (Cartera de Inversión Desagregada, XML) y, en algunos casos, de estados financieros y de prensa que cita esos datos. La licencia de reutilización de los datos de la SP está **[por documentar]**. Este repositorio **no pone una licencia sobre los datos**.
+Las cifras de carteras provienen de la Superintendencia de Pensiones (Cartera de Inversión Desagregada, XML) y, en algunos casos, de estados financieros, de la Cámara y de prensa que cita esos datos. La licencia de reutilización de los datos de la SP está **[por documentar]**. Este repositorio **no pone una licencia sobre los datos**.
 
 El HTML, el CSS y el JS se publican aquí para que se pueda inspeccionar el prototipo. Eso no autoriza a reutilizar los datos subyacentes hasta que su licencia esté clara.
 
 ## Cómo verlo
 
-Sitio: <https://vientonorte.github.io/contra-archivo-sigue-tu-pension/>
+Sitio: <https://vientonorte.github.io/contra-archivo-sigue-tu-pension/> (redirige al dominio de Pages de la cuenta).
 
 Para servirlo en tu máquina, desde la carpeta del repositorio:
 
@@ -33,4 +33,4 @@ python3 -m http.server 8765
 
 Abre la dirección que imprima el servidor (no abras `index.html` como archivo).
 
-Parámetros opcionales: `?afp=capital&fondo=c&nivel=historia#p1` (`afp`, `fondo` a–e, `nivel` = historia, datos o fuentes, `#p0` a `#p9`).
+Parámetros opcionales: `?afp=capital&fondo=c&nivel=historia#p0` (`afp`, `fondo` a–e, `nivel` = historia, datos o fuentes, `#p0` a `#p9`).
