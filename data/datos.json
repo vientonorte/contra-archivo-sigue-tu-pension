@@ -1,0 +1,1657 @@
+{
+ "generado": "2026-11-25",
+ "afps": [
+  {
+   "id": "capital",
+   "nombre": "Capital"
+  },
+  {
+   "id": "cuprum",
+   "nombre": "Cuprum"
+  },
+  {
+   "id": "habitat",
+   "nombre": "Habitat"
+  },
+  {
+   "id": "modelo",
+   "nombre": "Modelo"
+  },
+  {
+   "id": "planvital",
+   "nombre": "PlanVital"
+  },
+  {
+   "id": "provida",
+   "nombre": "Provida"
+  },
+  {
+   "id": "uno",
+   "nombre": "Uno"
+  }
+ ],
+ "cortes": [
+  {
+   "fecha": "2026-05-29",
+   "publicado": "2026-06-12",
+   "estado": "publicado"
+  },
+  {
+   "fecha": "2026-06-30",
+   "publicado": "2026-07-09",
+   "estado": "publicado"
+  },
+  {
+   "fecha": "2026-07-31",
+   "estado": "nodato",
+   "motivo": "La SP no entrega el ZIP del período (revisado 25-11-2026)"
+  },
+  {
+   "fecha": "2026-08-31",
+   "estado": "nodato",
+   "motivo": "La SP no entrega el ZIP del período (revisado 25-11-2026)"
+  },
+  {
+   "fecha": "2026-09-30",
+   "estado": "nodato",
+   "motivo": "La SP no entrega el ZIP del período (revisado 25-11-2026)"
+  },
+  {
+   "fecha": "2026-10-31",
+   "estado": "nodato",
+   "motivo": "La SP no entrega el ZIP del período (revisado 25-11-2026)"
+  }
+ ],
+ "swaps": {
+  "2026-05": {
+   "capital": {
+    "a": {
+     "id": "sp-2026-05-capital-a"
+    },
+    "b": {
+     "id": "sp-2026-05-capital-b"
+    },
+    "c": {
+     "id": "sp-2026-05-capital-c"
+    },
+    "d": {
+     "id": "sp-2026-05-capital-d"
+    },
+    "e": {
+     "id": "sp-2026-05-capital-e"
+    },
+    "ext": {
+     "id": "sp-2026-05-capital-ext"
+    },
+    "nac": {
+     "id": "sp-2026-05-capital-nac"
+    },
+    "tot": {
+     "id": "sp-2026-05-capital-tot"
+    }
+   },
+   "cuprum": {
+    "a": {
+     "id": "sp-2026-05-cuprum-a"
+    },
+    "b": {
+     "id": "sp-2026-05-cuprum-b"
+    },
+    "c": {
+     "id": "sp-2026-05-cuprum-c"
+    },
+    "d": {
+     "id": "sp-2026-05-cuprum-d"
+    },
+    "e": {
+     "id": "sp-2026-05-cuprum-e"
+    },
+    "ext": {
+     "id": "sp-2026-05-cuprum-ext"
+    },
+    "nac": {
+     "id": "sp-2026-05-cuprum-nac"
+    },
+    "tot": {
+     "id": "sp-2026-05-cuprum-tot"
+    }
+   },
+   "habitat": {
+    "a": {
+     "id": "sp-2026-05-habitat-a"
+    },
+    "b": {
+     "id": "sp-2026-05-habitat-b"
+    },
+    "c": {
+     "id": "sp-2026-05-habitat-c"
+    },
+    "d": {
+     "id": "sp-2026-05-habitat-d"
+    },
+    "e": {
+     "id": "sp-2026-05-habitat-e"
+    },
+    "ext": {
+     "id": "sp-2026-05-habitat-ext"
+    },
+    "nac": {
+     "id": "sp-2026-05-habitat-nac"
+    },
+    "tot": {
+     "id": "sp-2026-05-habitat-tot"
+    }
+   },
+   "modelo": {
+    "a": {
+     "id": "sp-2026-05-modelo-a"
+    },
+    "b": {
+     "id": "sp-2026-05-modelo-b"
+    },
+    "c": {
+     "id": "sp-2026-05-modelo-c"
+    },
+    "d": {
+     "id": "sp-2026-05-modelo-d"
+    },
+    "e": {
+     "id": "sp-2026-05-modelo-e"
+    },
+    "ext": {
+     "id": "sp-2026-05-modelo-ext"
+    },
+    "nac": {
+     "id": "sp-2026-05-modelo-nac"
+    },
+    "tot": {
+     "id": "sp-2026-05-modelo-tot"
+    }
+   },
+   "planvital": {
+    "a": {
+     "id": "sp-2026-05-planvital-a"
+    },
+    "b": {
+     "id": "sp-2026-05-planvital-b"
+    },
+    "c": {
+     "id": "sp-2026-05-planvital-c"
+    },
+    "d": {
+     "id": "sp-2026-05-planvital-d"
+    },
+    "e": {
+     "id": "sp-2026-05-planvital-e"
+    },
+    "ext": {
+     "id": "sp-2026-05-planvital-ext"
+    },
+    "nac": {
+     "id": "sp-2026-05-planvital-nac"
+    },
+    "tot": {
+     "id": "sp-2026-05-planvital-tot"
+    }
+   },
+   "provida": {
+    "a": {
+     "id": "sp-2026-05-provida-a"
+    },
+    "b": {
+     "id": "sp-2026-05-provida-b"
+    },
+    "c": {
+     "id": "sp-2026-05-provida-c"
+    },
+    "d": {
+     "id": "sp-2026-05-provida-d"
+    },
+    "e": {
+     "id": "sp-2026-05-provida-e"
+    },
+    "ext": {
+     "id": "sp-2026-05-provida-ext"
+    },
+    "nac": {
+     "id": "sp-2026-05-provida-nac"
+    },
+    "tot": {
+     "id": "sp-2026-05-provida-tot"
+    }
+   },
+   "uno": {
+    "a": {
+     "id": "sp-2026-05-uno-a"
+    },
+    "b": {
+     "id": "sp-2026-05-uno-b"
+    },
+    "c": {
+     "id": "sp-2026-05-uno-c"
+    },
+    "d": {
+     "id": "sp-2026-05-uno-d"
+    },
+    "e": {
+     "id": "sp-2026-05-uno-e"
+    },
+    "ext": {
+     "id": "sp-2026-05-uno-ext"
+    },
+    "nac": {
+     "id": "sp-2026-05-uno-nac"
+    },
+    "tot": {
+     "id": "sp-2026-05-uno-tot"
+    }
+   },
+   "sistema": {
+    "a": {
+     "id": "sp-2026-05-sistema-a"
+    },
+    "b": {
+     "id": "sp-2026-05-sistema-b"
+    },
+    "c": {
+     "id": "sp-2026-05-sistema-c"
+    },
+    "d": {
+     "id": "sp-2026-05-sistema-d"
+    },
+    "e": {
+     "id": "sp-2026-05-sistema-e"
+    },
+    "ext": {
+     "id": "sp-2026-05-sistema-ext"
+    },
+    "nac": {
+     "id": "sp-2026-05-sistema-nac"
+    },
+    "tot": {
+     "id": "sp-2026-05-sistema-tot"
+    }
+   }
+  },
+  "2026-06": {
+   "capital": {
+    "a": {
+     "id": "sp-2026-06-capital-a"
+    },
+    "b": {
+     "id": "sp-2026-06-capital-b"
+    },
+    "c": {
+     "id": "sp-2026-06-capital-c"
+    },
+    "d": {
+     "id": "sp-2026-06-capital-d"
+    },
+    "e": {
+     "id": "sp-2026-06-capital-e"
+    },
+    "ext": {
+     "id": "sp-2026-06-capital-ext"
+    },
+    "nac": {
+     "id": "sp-2026-06-capital-nac"
+    },
+    "tot": {
+     "id": "sp-2026-06-capital-tot"
+    }
+   },
+   "cuprum": {
+    "a": {
+     "id": "sp-2026-06-cuprum-a"
+    },
+    "b": {
+     "id": "sp-2026-06-cuprum-b"
+    },
+    "c": {
+     "id": "sp-2026-06-cuprum-c"
+    },
+    "d": {
+     "id": "sp-2026-06-cuprum-d"
+    },
+    "e": {
+     "id": "sp-2026-06-cuprum-e"
+    },
+    "ext": {
+     "id": "sp-2026-06-cuprum-ext"
+    },
+    "nac": {
+     "id": "sp-2026-06-cuprum-nac"
+    },
+    "tot": {
+     "id": "sp-2026-06-cuprum-tot"
+    }
+   },
+   "habitat": {
+    "a": {
+     "id": "sp-2026-06-habitat-a"
+    },
+    "b": {
+     "id": "sp-2026-06-habitat-b"
+    },
+    "c": {
+     "id": "sp-2026-06-habitat-c"
+    },
+    "d": {
+     "id": "sp-2026-06-habitat-d"
+    },
+    "e": {
+     "id": "sp-2026-06-habitat-e"
+    },
+    "ext": {
+     "id": "sp-2026-06-habitat-ext"
+    },
+    "nac": {
+     "id": "sp-2026-06-habitat-nac"
+    },
+    "tot": {
+     "id": "sp-2026-06-habitat-tot"
+    }
+   },
+   "modelo": {
+    "a": {
+     "id": "sp-2026-06-modelo-a"
+    },
+    "b": {
+     "id": "sp-2026-06-modelo-b"
+    },
+    "c": {
+     "id": "sp-2026-06-modelo-c"
+    },
+    "d": {
+     "id": "sp-2026-06-modelo-d"
+    },
+    "e": {
+     "id": "sp-2026-06-modelo-e"
+    },
+    "ext": {
+     "id": "sp-2026-06-modelo-ext"
+    },
+    "nac": {
+     "id": "sp-2026-06-modelo-nac"
+    },
+    "tot": {
+     "id": "sp-2026-06-modelo-tot"
+    }
+   },
+   "planvital": {
+    "a": {
+     "id": "sp-2026-06-planvital-a"
+    },
+    "b": {
+     "id": "sp-2026-06-planvital-b"
+    },
+    "c": {
+     "id": "sp-2026-06-planvital-c"
+    },
+    "d": {
+     "id": "sp-2026-06-planvital-d"
+    },
+    "e": {
+     "id": "sp-2026-06-planvital-e"
+    },
+    "ext": {
+     "id": "sp-2026-06-planvital-ext"
+    },
+    "nac": {
+     "id": "sp-2026-06-planvital-nac"
+    },
+    "tot": {
+     "id": "sp-2026-06-planvital-tot"
+    }
+   },
+   "provida": {
+    "a": {
+     "id": "sp-2026-06-provida-a"
+    },
+    "b": {
+     "id": "sp-2026-06-provida-b"
+    },
+    "c": {
+     "id": "sp-2026-06-provida-c"
+    },
+    "d": {
+     "id": "sp-2026-06-provida-d"
+    },
+    "e": {
+     "id": "sp-2026-06-provida-e"
+    },
+    "ext": {
+     "id": "sp-2026-06-provida-ext"
+    },
+    "nac": {
+     "id": "sp-2026-06-provida-nac"
+    },
+    "tot": {
+     "id": "sp-2026-06-provida-tot"
+    }
+   },
+   "uno": {
+    "a": {
+     "id": "sp-2026-06-uno-a"
+    },
+    "b": {
+     "id": "sp-2026-06-uno-b"
+    },
+    "c": {
+     "id": "sp-2026-06-uno-c"
+    },
+    "d": {
+     "id": "sp-2026-06-uno-d"
+    },
+    "e": {
+     "id": "sp-2026-06-uno-e"
+    },
+    "ext": {
+     "id": "sp-2026-06-uno-ext"
+    },
+    "nac": {
+     "id": "sp-2026-06-uno-nac"
+    },
+    "tot": {
+     "id": "sp-2026-06-uno-tot"
+    }
+   },
+   "sistema": {
+    "a": {
+     "id": "sp-2026-06-sistema-a"
+    },
+    "b": {
+     "id": "sp-2026-06-sistema-b"
+    },
+    "c": {
+     "id": "sp-2026-06-sistema-c"
+    },
+    "d": {
+     "id": "sp-2026-06-sistema-d"
+    },
+    "e": {
+     "id": "sp-2026-06-sistema-e"
+    },
+    "ext": {
+     "id": "sp-2026-06-sistema-ext"
+    },
+    "nac": {
+     "id": "sp-2026-06-sistema-nac"
+    },
+    "tot": {
+     "id": "sp-2026-06-sistema-tot"
+    }
+   }
+  }
+ },
+ "bancos_0630": {
+  "ext": {
+   "BANCO BILBAO VIZCAYA ARGENTARIA SA": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-bancobilbaovizcayaar-capital"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-bancobilbaovizcayaar-habitat"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-bancobilbaovizcayaar-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-bancobilbaovizcayaar-total"
+    }
+   },
+   "BANK OF AMERICA NA": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-bankofamericana-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-ext-bankofamericana-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-bankofamericana-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-ext-bankofamericana-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-ext-bankofamericana-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-bankofamericana-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-bankofamericana-total"
+    }
+   },
+   "BARCLAYS BANK PLC": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-barclaysbankplc-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-ext-barclaysbankplc-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-barclaysbankplc-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-ext-barclaysbankplc-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-ext-barclaysbankplc-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-barclaysbankplc-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-barclaysbankplc-total"
+    }
+   },
+   "BNP PARIBAS SA": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-bnpparibassa-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-ext-bnpparibassa-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-bnpparibassa-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-ext-bnpparibassa-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-ext-bnpparibassa-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-bnpparibassa-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-bnpparibassa-total"
+    }
+   },
+   "CITIBANK NA": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-citibankna-capital"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-citibankna-habitat"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-citibankna-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-citibankna-total"
+    }
+   },
+   "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK": {
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-creditagricolecorpor-habitat"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-creditagricolecorpor-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-creditagricolecorpor-total"
+    }
+   },
+   "DEUTSCHE BANK AG": {
+    "cuprum": {
+     "id": "sp-2026-06-banco-ext-deutschebankag-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-deutschebankag-habitat"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-deutschebankag-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-deutschebankag-total"
+    }
+   },
+   "GOLDMAN SACHS BANK USA": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-goldmansachsbankusa-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-ext-goldmansachsbankusa-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-goldmansachsbankusa-habitat"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-ext-goldmansachsbankusa-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-goldmansachsbankusa-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-goldmansachsbankusa-total"
+    }
+   },
+   "HSBC BANK USA NA": {
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-hsbcbankusana-habitat"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-hsbcbankusana-total"
+    }
+   },
+   "JPMORGAN CHASE BANK NA": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-jpmorganchasebankna-capital"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-jpmorganchasebankna-habitat"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-ext-jpmorganchasebankna-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-jpmorganchasebankna-provida"
+    },
+    "uno": {
+     "id": "sp-2026-06-banco-ext-jpmorganchasebankna-uno"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-jpmorganchasebankna-total"
+    }
+   },
+   "MORGAN STANLEY CO INTERNATIONAL PLC": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-morganstanleycointer-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-ext-morganstanleycointer-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-morganstanleycointer-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-ext-morganstanleycointer-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-ext-morganstanleycointer-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-morganstanleycointer-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-morganstanleycointer-total"
+    }
+   },
+   "NATIXIS": {
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-natixis-habitat"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-natixis-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-natixis-total"
+    }
+   },
+   "SOCIETE GENERALE GROUP": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-societegeneralegroup-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-ext-societegeneralegroup-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-societegeneralegroup-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-ext-societegeneralegroup-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-ext-societegeneralegroup-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-societegeneralegroup-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-societegeneralegroup-total"
+    }
+   },
+   "STANDARD CHARTERED BANK": {
+    "capital": {
+     "id": "sp-2026-06-banco-ext-standardcharteredban-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-ext-standardcharteredban-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-standardcharteredban-habitat"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-standardcharteredban-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-standardcharteredban-total"
+    }
+   },
+   "THE BANK OF NOVA SCOTIA": {
+    "cuprum": {
+     "id": "sp-2026-06-banco-ext-thebankofnovascotia-cuprum"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-ext-thebankofnovascotia-modelo"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-thebankofnovascotia-provida"
+    },
+    "uno": {
+     "id": "sp-2026-06-banco-ext-thebankofnovascotia-uno"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-thebankofnovascotia-total"
+    }
+   },
+   "UBS AG": {
+    "habitat": {
+     "id": "sp-2026-06-banco-ext-ubsag-habitat"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-ext-ubsag-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-ext-ubsag-total"
+    }
+   }
+  },
+  "nac": {
+   "BANCO BTG PACTUAL CHILE": {
+    "modelo": {
+     "id": "sp-2026-06-banco-nac-bancobtgpactualchile-modelo"
+    },
+    "uno": {
+     "id": "sp-2026-06-banco-nac-bancobtgpactualchile-uno"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-nac-bancobtgpactualchile-total"
+    }
+   },
+   "BANCO DE CHILE": {
+    "capital": {
+     "id": "sp-2026-06-banco-nac-bancodechile-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-nac-bancodechile-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-nac-bancodechile-habitat"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-nac-bancodechile-provida"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-nac-bancodechile-total"
+    }
+   },
+   "BANCO DE CREDITO E INVERSIONES": {
+    "capital": {
+     "id": "sp-2026-06-banco-nac-bancodecreditoeinver-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-nac-bancodecreditoeinver-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-nac-bancodecreditoeinver-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-nac-bancodecreditoeinver-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-nac-bancodecreditoeinver-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-nac-bancodecreditoeinver-provida"
+    },
+    "uno": {
+     "id": "sp-2026-06-banco-nac-bancodecreditoeinver-uno"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-nac-bancodecreditoeinver-total"
+    }
+   },
+   "BANCO DEL ESTADO DE CHILE": {
+    "capital": {
+     "id": "sp-2026-06-banco-nac-bancodelestadodechil-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-nac-bancodelestadodechil-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-nac-bancodelestadodechil-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-nac-bancodelestadodechil-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-nac-bancodelestadodechil-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-nac-bancodelestadodechil-provida"
+    },
+    "uno": {
+     "id": "sp-2026-06-banco-nac-bancodelestadodechil-uno"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-nac-bancodelestadodechil-total"
+    }
+   },
+   "BANCO FALABELLA": {
+    "cuprum": {
+     "id": "sp-2026-06-banco-nac-bancofalabella-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-nac-bancofalabella-habitat"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-nac-bancofalabella-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-nac-bancofalabella-provida"
+    },
+    "uno": {
+     "id": "sp-2026-06-banco-nac-bancofalabella-uno"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-nac-bancofalabella-total"
+    }
+   },
+   "BANCO ITAU CHILE": {
+    "capital": {
+     "id": "sp-2026-06-banco-nac-bancoitauchile-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-nac-bancoitauchile-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-nac-bancoitauchile-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-nac-bancoitauchile-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-nac-bancoitauchile-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-nac-bancoitauchile-provida"
+    },
+    "uno": {
+     "id": "sp-2026-06-banco-nac-bancoitauchile-uno"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-nac-bancoitauchile-total"
+    }
+   },
+   "BANCO SANTANDER CHILE": {
+    "capital": {
+     "id": "sp-2026-06-banco-nac-bancosantanderchile-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-nac-bancosantanderchile-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-nac-bancosantanderchile-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-nac-bancosantanderchile-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-nac-bancosantanderchile-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-nac-bancosantanderchile-provida"
+    },
+    "uno": {
+     "id": "sp-2026-06-banco-nac-bancosantanderchile-uno"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-nac-bancosantanderchile-total"
+    }
+   },
+   "SCOTIABANK CHILE": {
+    "capital": {
+     "id": "sp-2026-06-banco-nac-scotiabankchile-capital"
+    },
+    "cuprum": {
+     "id": "sp-2026-06-banco-nac-scotiabankchile-cuprum"
+    },
+    "habitat": {
+     "id": "sp-2026-06-banco-nac-scotiabankchile-habitat"
+    },
+    "modelo": {
+     "id": "sp-2026-06-banco-nac-scotiabankchile-modelo"
+    },
+    "planvital": {
+     "id": "sp-2026-06-banco-nac-scotiabankchile-planvital"
+    },
+    "provida": {
+     "id": "sp-2026-06-banco-nac-scotiabankchile-provida"
+    },
+    "uno": {
+     "id": "sp-2026-06-banco-nac-scotiabankchile-uno"
+    },
+    "total": {
+     "id": "sp-2026-06-banco-nac-scotiabankchile-total"
+    }
+   }
+  }
+ },
+ "bancos_0930": {
+  "ext": [
+   {
+    "banco": "Bank of America",
+    "v": {
+     "id": "cnn-20260930-ext-bankofamerica"
+    }
+   },
+   {
+    "banco": "Société Générale",
+    "v": {
+     "id": "cnn-20260930-ext-socitgnrale"
+    }
+   },
+   {
+    "banco": "BNP Paribas",
+    "v": {
+     "id": "cnn-20260930-ext-bnpparibas"
+    }
+   },
+   {
+    "banco": "Barclays",
+    "v": {
+     "id": "cnn-20260930-ext-barclays"
+    }
+   },
+   {
+    "banco": "Deutsche Bank",
+    "v": {
+     "id": "cnn-20260930-ext-deutschebank"
+    }
+   },
+   {
+    "banco": "Morgan Stanley",
+    "v": {
+     "id": "cnn-20260930-ext-morganstanley"
+    }
+   },
+   {
+    "banco": "Standard Chartered",
+    "v": {
+     "id": "cnn-20260930-ext-standardchartered"
+    }
+   },
+   {
+    "banco": "Citibank",
+    "v": {
+     "id": "cnn-20260930-ext-citibank"
+    }
+   },
+   {
+    "banco": "Sin emisor identificado",
+    "v": {
+     "id": "cnn-20260930-ext-sinemisoridentific"
+    }
+   },
+   {
+    "banco": "The Bank of Nova Scotia",
+    "v": {
+     "id": "cnn-20260930-ext-thebankofnovascoti"
+    }
+   },
+   {
+    "banco": "BBVA",
+    "v": {
+     "id": "cnn-20260930-ext-bbva"
+    }
+   },
+   {
+    "banco": "Goldman Sachs",
+    "v": {
+     "id": "cnn-20260930-ext-goldmansachs"
+    }
+   },
+   {
+    "banco": "Crédit Agricole",
+    "v": {
+     "id": "cnn-20260930-ext-crditagricole"
+    }
+   },
+   {
+    "banco": "Natixis",
+    "v": {
+     "id": "cnn-20260930-ext-natixis"
+    }
+   },
+   {
+    "banco": "JPMorgan Chase",
+    "v": {
+     "id": "cnn-20260930-ext-jpmorganchase"
+    }
+   },
+   {
+    "banco": "HSBC",
+    "v": {
+     "id": "cnn-20260930-ext-hsbc"
+    }
+   }
+  ],
+  "nac": [
+   {
+    "banco": "Banco Santander Chile",
+    "v": {
+     "id": "cnn-20260930-nac-bancosantanderchil"
+    }
+   },
+   {
+    "banco": "Itaú Chile",
+    "v": {
+     "id": "cnn-20260930-nac-itachile"
+    }
+   },
+   {
+    "banco": "Scotiabank Chile",
+    "v": {
+     "id": "cnn-20260930-nac-scotiabankchile"
+    }
+   },
+   {
+    "banco": "BCI",
+    "v": {
+     "id": "cnn-20260930-nac-bci"
+    }
+   },
+   {
+    "banco": "BTG Pactual Chile",
+    "v": {
+     "id": "cnn-20260930-nac-btgpactualchile"
+    }
+   },
+   {
+    "banco": "BancoEstado",
+    "v": {
+     "id": "cnn-20260930-nac-bancoestado"
+    }
+   },
+   {
+    "banco": "Banco de Chile",
+    "v": {
+     "id": "cnn-20260930-nac-bancodechile"
+    }
+   },
+   {
+    "banco": "Banco Falabella",
+    "v": {
+     "id": "cnn-20260930-nac-bancofalabella"
+    }
+   }
+  ]
+ },
+ "tenencia_0630": [
+  {
+   "banco": "Banco Santander-Chile",
+   "total": {
+    "id": "sp-20260630-ten-bsantander-total"
+   },
+   "usd": {
+    "id": "sp-20260630-ten-bsantander-usd"
+   },
+   "afp": {
+    "capital": {
+     "id": "sp-20260630-ten-bsantander-capital"
+    },
+    "cuprum": {
+     "id": "sp-20260630-ten-bsantander-cuprum"
+    },
+    "habitat": {
+     "id": "sp-20260630-ten-bsantander-habitat"
+    },
+    "modelo": {
+     "id": "sp-20260630-ten-bsantander-modelo"
+    },
+    "planvital": {
+     "id": "sp-20260630-ten-bsantander-planvital"
+    },
+    "provida": {
+     "id": "sp-20260630-ten-bsantander-provida"
+    },
+    "uno": {
+     "id": "sp-20260630-ten-bsantander-uno"
+    }
+   }
+  },
+  {
+   "banco": "BCI",
+   "total": {
+    "id": "sp-20260630-ten-bci-total"
+   },
+   "usd": {
+    "id": "sp-20260630-ten-bci-usd"
+   },
+   "afp": {
+    "capital": {
+     "id": "sp-20260630-ten-bci-capital"
+    },
+    "cuprum": {
+     "id": "sp-20260630-ten-bci-cuprum"
+    },
+    "habitat": {
+     "id": "sp-20260630-ten-bci-habitat"
+    },
+    "modelo": {
+     "id": "sp-20260630-ten-bci-modelo"
+    },
+    "planvital": {
+     "id": "sp-20260630-ten-bci-planvital"
+    },
+    "provida": {
+     "id": "sp-20260630-ten-bci-provida"
+    },
+    "uno": {
+     "id": "sp-20260630-ten-bci-uno"
+    }
+   }
+  },
+  {
+   "banco": "Banco de Chile",
+   "total": {
+    "id": "sp-20260630-ten-chile-total"
+   },
+   "usd": {
+    "id": "sp-20260630-ten-chile-usd"
+   },
+   "afp": {
+    "capital": {
+     "id": "sp-20260630-ten-chile-capital"
+    },
+    "cuprum": {
+     "id": "sp-20260630-ten-chile-cuprum"
+    },
+    "habitat": {
+     "id": "sp-20260630-ten-chile-habitat"
+    },
+    "modelo": {
+     "id": "sp-20260630-ten-chile-modelo"
+    },
+    "planvital": {
+     "id": "sp-20260630-ten-chile-planvital"
+    },
+    "provida": {
+     "id": "sp-20260630-ten-chile-provida"
+    },
+    "uno": {
+     "id": "sp-20260630-ten-chile-uno"
+    }
+   }
+  },
+  {
+   "banco": "Itaú Chile",
+   "total": {
+    "id": "sp-20260630-ten-itaucl-total"
+   },
+   "usd": {
+    "id": "sp-20260630-ten-itaucl-usd"
+   },
+   "afp": {
+    "capital": {
+     "id": "sp-20260630-ten-itaucl-capital"
+    },
+    "cuprum": {
+     "id": "sp-20260630-ten-itaucl-cuprum"
+    },
+    "habitat": {
+     "id": "sp-20260630-ten-itaucl-habitat"
+    },
+    "modelo": {
+     "nd": true,
+     "id": "sp-20260630-ten-itaucl-modelo"
+    },
+    "planvital": {
+     "id": "sp-20260630-ten-itaucl-planvital"
+    },
+    "provida": {
+     "id": "sp-20260630-ten-itaucl-provida"
+    },
+    "uno": {
+     "id": "sp-20260630-ten-itaucl-uno"
+    }
+   }
+  }
+ ],
+ "red": {
+  "nodos": [
+   {
+    "id": "gruposura",
+    "nombre": "Grupo SURA",
+    "tipo": "dueno"
+   },
+   {
+    "id": "suraam",
+    "nombre": "SURA Asset Management",
+    "tipo": "dueno"
+   },
+   {
+    "id": "principal",
+    "nombre": "Principal (EE.UU.)",
+    "tipo": "dueno"
+   },
+   {
+    "id": "ilc",
+    "nombre": "ILC / CChC",
+    "tipo": "dueno"
+   },
+   {
+    "id": "prudential",
+    "nombre": "Prudential",
+    "tipo": "dueno"
+   },
+   {
+    "id": "metlife",
+    "nombre": "MetLife",
+    "tipo": "dueno"
+   },
+   {
+    "id": "atlantico",
+    "nombre": "Inversiones Atlántico",
+    "tipo": "dueno"
+   },
+   {
+    "id": "olmos",
+    "nombre": "Los Olmos (Generali)",
+    "tipo": "dueno"
+   },
+   {
+    "id": "tanza",
+    "nombre": "Tanza SpA",
+    "tipo": "dueno"
+   },
+   {
+    "id": "capital",
+    "nombre": "AFP Capital",
+    "tipo": "afp"
+   },
+   {
+    "id": "cuprum",
+    "nombre": "AFP Cuprum",
+    "tipo": "afp"
+   },
+   {
+    "id": "habitat",
+    "nombre": "AFP Habitat",
+    "tipo": "afp"
+   },
+   {
+    "id": "modelo",
+    "nombre": "AFP Modelo",
+    "tipo": "afp"
+   },
+   {
+    "id": "planvital",
+    "nombre": "AFP PlanVital",
+    "tipo": "afp"
+   },
+   {
+    "id": "provida",
+    "nombre": "AFP Provida",
+    "tipo": "afp"
+   },
+   {
+    "id": "uno",
+    "nombre": "AFP Uno",
+    "tipo": "afp"
+   },
+   {
+    "id": "santanderes",
+    "nombre": "Grupo Santander (España)",
+    "tipo": "duenob"
+   },
+   {
+    "id": "bsantander",
+    "nombre": "Banco Santander-Chile",
+    "tipo": "banco"
+   },
+   {
+    "id": "bci",
+    "nombre": "BCI",
+    "tipo": "banco"
+   },
+   {
+    "id": "chile",
+    "nombre": "Banco de Chile",
+    "tipo": "banco"
+   },
+   {
+    "id": "itaucl",
+    "nombre": "Itaú Chile",
+    "tipo": "banco"
+   },
+   {
+    "id": "itauuni",
+    "nombre": "Itaú Unibanco",
+    "tipo": "duenob"
+   },
+   {
+    "id": "scotia",
+    "nombre": "Scotiabank Chile",
+    "tipo": "banco"
+   },
+   {
+    "id": "bns",
+    "nombre": "Bank of Nova Scotia",
+    "tipo": "duenob"
+   },
+   {
+    "id": "fondos",
+    "nombre": "Fondos de pensiones (7 AFP)",
+    "tipo": "fondos"
+   }
+  ],
+  "aristas": [
+   {
+    "de": "gruposura",
+    "a": "suraam",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-suraam-gruposura"
+    }
+   },
+   {
+    "de": "suraam",
+    "a": "capital",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-capital-suraam"
+    }
+   },
+   {
+    "de": "principal",
+    "a": "cuprum",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-cuprum-principal"
+    }
+   },
+   {
+    "de": "ilc",
+    "a": "habitat",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-habitat-ipd"
+    }
+   },
+   {
+    "de": "prudential",
+    "a": "habitat",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-habitat-ipc"
+    }
+   },
+   {
+    "de": "metlife",
+    "a": "provida",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-provida-metlife"
+    }
+   },
+   {
+    "de": "atlantico",
+    "a": "modelo",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-modelo-atlantico"
+    }
+   },
+   {
+    "de": "olmos",
+    "a": "planvital",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-planvital-olmos"
+    }
+   },
+   {
+    "de": "tanza",
+    "a": "uno",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-uno-tanza"
+    }
+   },
+   {
+    "de": "santanderes",
+    "a": "bsantander",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-santander-espana"
+    }
+   },
+   {
+    "de": "itauuni",
+    "a": "itaucl",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-itau-unibanco"
+    }
+   },
+   {
+    "de": "bns",
+    "a": "scotia",
+    "tipo": "propiedad",
+    "ref": {
+     "id": "prop-scotia-bns"
+    }
+   },
+   {
+    "de": "fondos",
+    "a": "bsantander",
+    "tipo": "fondos",
+    "ref": {
+     "id": "sp-20260630-ten-bsantander-total"
+    }
+   },
+   {
+    "de": "fondos",
+    "a": "bci",
+    "tipo": "fondos",
+    "ref": {
+     "id": "sp-20260630-ten-bci-total"
+    }
+   },
+   {
+    "de": "fondos",
+    "a": "chile",
+    "tipo": "fondos",
+    "ref": {
+     "id": "sp-20260630-ten-chile-total"
+    }
+   },
+   {
+    "de": "fondos",
+    "a": "itaucl",
+    "tipo": "fondos",
+    "ref": {
+     "id": "sp-20260630-ten-itaucl-total"
+    }
+   },
+   {
+    "de": "santanderes",
+    "a": "capital",
+    "tipo": "historico",
+    "ref": {
+     "id": "hist-capital-santander"
+    }
+   }
+  ],
+  "vacios": [
+   {
+    "nd": true,
+    "id": "prop-cuprum-cadena"
+   },
+   {
+    "nd": true,
+    "id": "prop-planvital-generali"
+   }
+  ]
+ },
+ "cronologia": [
+  {
+   "ref": {
+    "id": "cro-2008-res24"
+   },
+   "id": "cro-2008-res24",
+   "cat": "norma"
+  },
+  {
+   "ref": {
+    "id": "cro-2012-ncg69"
+   },
+   "id": "cro-2012-ncg69",
+   "cat": "norma"
+  },
+  {
+   "ref": {
+    "id": "cro-2019-ncg242"
+   },
+   "id": "cro-2019-ncg242",
+   "cat": "norma"
+  },
+  {
+   "ref": {
+    "id": "cro-2025-oficio821"
+   },
+   "id": "cro-2025-oficio821",
+   "cat": "alerta"
+  },
+  {
+   "ref": {
+    "id": "cro-2025-bcch"
+   },
+   "id": "cro-2025-bcch",
+   "cat": "alerta"
+  },
+  {
+   "ref": {
+    "id": "cro-2026-ncg362"
+   },
+   "id": "cro-2026-ncg362",
+   "cat": "norma"
+  },
+  {
+   "ref": {
+    "id": "cro-2026-oficio-dip"
+   },
+   "id": "cro-2026-oficio-dip",
+   "cat": "causa"
+  },
+  {
+   "ref": {
+    "id": "cro-2026-sancion"
+   },
+   "id": "cro-2026-sancion",
+   "cat": "causa"
+  },
+  {
+   "ref": {
+    "id": "cro-2026-querella"
+   },
+   "id": "cro-2026-querella",
+   "cat": "causa"
+  },
+  {
+   "ref": {
+    "id": "cro-2026-camara26"
+   },
+   "id": "cro-2026-camara26",
+   "cat": "causa"
+  },
+  {
+   "ref": {
+    "id": "cro-2026-camara17"
+   },
+   "id": "cro-2026-camara17",
+   "cat": "causa"
+  },
+  {
+   "ref": {
+    "nd": true,
+    "id": "cro-2026-plazo-led"
+   },
+   "id": "cro-2026-plazo-led",
+   "cat": "norma"
+  },
+  {
+   "ref": {
+    "id": "cro-2027-csa"
+   },
+   "id": "cro-2027-csa",
+   "cat": "norma"
+  }
+ ],
+ "vacios": [
+  {
+   "que": "Valorización por AFP y fondo después del 30-06-2026",
+   "quien": "SP (Cartera Desagregada 2026/07–10)"
+  },
+  {
+   "que": "Pérdida realizada por AFP y fondo; fecha de cada cierre",
+   "quien": "SP (formulario D-2.8, código Q)"
+  },
+  {
+   "que": "Nocional por AFP, fondo y contraparte",
+   "quien": "SP"
+  },
+  {
+   "que": "Garantías entregadas y recibidas por AFP y contraparte",
+   "quien": "SP (informe diario, reportes RCL)"
+  },
+  {
+   "que": "Quién es «sin emisor identificado» (30-09)",
+   "quien": "SP"
+  },
+  {
+   "que": "Resultado de cada banco con los fondos; coberturas espejo",
+   "quien": "Bancos (notas EEFF, CMF); no es público por cliente"
+  },
+  {
+   "que": "Actas de los comités de inversión",
+   "quien": "AFP; expediente SP"
+  },
+  {
+   "que": "Otras causas y oficios",
+   "quien": "Sin catastro público"
+  }
+ ],
+ "sistema": {
+  "total": {
+   "id": "sis-20261105-total"
+  },
+  "realizada": {
+   "id": "sis-20261105-realizada"
+  },
+  "valoracion": {
+   "id": "sis-20261105-valoracion"
+  },
+  "v0930": {
+   "id": "cnn-20260930-sistema"
+  },
+  "camaras": {
+   "id": "sp-20260630-camaras"
+  }
+ },
+ "plazos": {
+  "l20285": {
+   "id": "ley20285-plazo"
+  },
+  "amparo": {
+   "id": "ley20285-amparo"
+  },
+  "adjunto": {
+   "id": "sp-reclamo-adjunto"
+  }
+ }
+}
